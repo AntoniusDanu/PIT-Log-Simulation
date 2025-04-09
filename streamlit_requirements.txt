@@ -1,0 +1,7 @@
+streamlit
+streamlit-autorefresh
+ultralytics
+paddlepaddle
+paddleocr
+opencv-python-headless
+pytz
